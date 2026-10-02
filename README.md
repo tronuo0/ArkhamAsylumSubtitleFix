@@ -1,8 +1,24 @@
+| Store | Status |
+| :--- | :---: |
+| <img src="https://cdn.simpleicons.org/steam/1B6D9B" width="20" height="20" alt="Steam"> **Steam GOTY** | ✅ Tested |
+| <img src="https://cdn.simpleicons.org/gogdotcom/86328A" width="20" height="20" alt="GOG"> **GOG** | ⏳ Not yet |
+| <img src="https://cdn.simpleicons.org/epicgames/777777" width="20" height="20" alt="Epic Games"> **Epic Games** | ⏳ Not yet |
+
 # Arkham Subtitle Scale
 
 Configurable subtitle size and vertical positioning for **Batman: Arkham Asylum GOTY (Windows, Steam)**.
 
 **Version 0.2.0 is an experimental pre-release.** Subtitle scaling at 3x has been confirmed in gameplay at 3840x2160. The new vertical offset and other subtitle scenes still need in-game verification.
+
+<details>
+<summary><strong>In-game preview — click to expand</strong><br><br><img src="https://github.com/user-attachments/assets/2fea55b2-c157-416c-b5a0-6dcf0c886b81" alt="Small preview of enlarged subtitles" width="320"></summary>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2fea55b2-c157-416c-b5a0-6dcf0c886b81" alt="Batman Arkham Asylum gameplay with enlarged subtitles" width="960">
+  <br><em>Subtitle scaling at 3×</em>
+</p>
+
+</details>
 
 ## Install
 
